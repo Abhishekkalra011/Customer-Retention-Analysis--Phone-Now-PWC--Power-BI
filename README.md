@@ -1,6 +1,8 @@
 # Customer-Retention-Analysis
 ![image](https://github.com/user-attachments/assets/90b2c52b-6d0e-473a-83c8-0a34e2bb17ae)
 ## Phone-Now-PWC--Power-BI 
+## Report link:
+https://app.powerbi.com/view?r=eyJrIjoiZDdjYTcxYjUtOTc2NS00ZmQ4LTgwZmMtNGJhZjRhN2ZlMGUwIiwidCI6IjU1YmQ5ZTdkLTdkMWEtNGZlNy1hNmZmLTJhOWY0YzdkZjAxYSJ9
 ## Project Overview:
 To analyze customer churn within Phone Now ( PWC project), identify key factors influencing customer retention, and provide actionable recommendations to mitigate churn and improve customer satisfaction.
 ## Data Structure:
